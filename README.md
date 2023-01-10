@@ -7,7 +7,7 @@ RapidApi youtube v3 is used to build this video streaming website.
 ## Features
 
 - User can load different channel and category videos
-- Play vidieos
+- Play videos
 - Search for videos
 - Navigate to specific channel and watch it's all vidoes
 
