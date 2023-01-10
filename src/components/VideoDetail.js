@@ -100,7 +100,7 @@ const VideoDetail = () => {
                             </Stack>
                         </Box>
                     </Box>
-                    // related videos
+                    
                     <Box
                         px={2}
                         py={{ md: 1, xs: 5 }}
